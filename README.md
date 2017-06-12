@@ -3,7 +3,7 @@ real-time webcam face detection in Python
 
 required:
   - python 2
-  - opencv
+  - opencv (cv2 Python package)
   
 ```
 python webcamCapture.py
